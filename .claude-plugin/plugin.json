@@ -1,1 +1,1 @@
-{ "name": "agent-board", "version": "0.2.0", "description": "A pane showing what each subagent is working on, its status and its latest tool call.", "types": "./types/index.d.ts" }
+{ "name": "agent-board", "version": "0.3.0", "description": "A live pane showing what each subagent is working on: its commands, edits and results as they happen.", "types": "./types/index.d.ts" }
